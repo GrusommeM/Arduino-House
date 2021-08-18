@@ -3,10 +3,10 @@ im making an arduino house with 1led ring with 20leds and 5normal leds, 1 speake
 
 IT has 4modes wich are enableed by a button.
 
-MODE 1;
+MODE 1; Partymode all leds blink in a driffrent pattern and the speaker plays pirates of the carribian
 
-MODE 2;
+MODE 2; party mode off
+  
+MODE 3; alamr mode all leds hold a constant light on mode and the speaker makes a alarm noise
 
-MODE 3;
-
-MODE 4;
+MODE 4; alarm mode off
